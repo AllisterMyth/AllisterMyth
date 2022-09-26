@@ -1,0 +1,5 @@
+- 🧝🏼‍♂️ Hi, I’m @AllisterMyth
+- 💡 I’m interested in security analysis and networking
+- ▶️ I’m currently learning raspberry pi and pen testing. 
+- 🤩 I’m looking to collaborate on networking projects.
+- ✒️ Hit me up on allistermyth@gmail.com
